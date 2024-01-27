@@ -1,0 +1,149 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #E6E6FA;
+}
+
+header {
+    background-color: #CF9FFF;
+    color: black;
+    text-align: left;
+}
+
+.header {
+    background-color: #CF9FFF;
+    color: black;
+    text-align: left;
+    padding: 6px;
+    background-image: url('uitm.jpg');
+    background-position: left top; /* Adjust as needed */
+    background-repeat: no-repeat;
+    background-size: contain; /* Adjust as needed */
+}
+
+/* Other styles remain unchanged */
+td {
+    padding-bottom: 10px;
+}
+
+ol li {
+    border-bottom: 1px solid #ddd;
+    padding: 5px 0;
+}
+
+.academic-form {
+    margin-bottom: 30px;
+}
+
+
+/* Add spacing between form fields */
+td {
+    padding-bottom: 10px;
+}
+
+/* Add border to each list item */
+ol li {
+    border-bottom: 1px solid #ddd;
+    padding: 5px 0;
+}
+
+/* Adjust margin for the form to avoid overlap with the fixed footer */
+.academic-form {
+    margin-bottom: 30px;
+}
+
+
+section {
+    margin: 8px;
+}
+
+.two-column-form {
+    display: flex;
+    justify-content: space-between;
+}
+
+button {
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+nav {
+    background-color: #6c6c6c;
+    padding: 10px;
+    text-align: left;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+nav a:hover {
+    background-color: #555555;
+}
+
+.centered-nav {
+    text-align: center;
+}
+
+footer {
+    background-color: #CF9FFF;
+    color: black;
+    padding: 0.2px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 13px;
+}
+
+/* Add style to the submit button */
+input[type="submit"] {
+    background-color: #9701fb;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/* Change button color on hover */
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
